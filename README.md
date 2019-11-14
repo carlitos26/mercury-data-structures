@@ -1,5 +1,5 @@
-# Spring Boot, Hibernate and PostgreSql init template
-Basic starter template for Spring Boot based web applications
+# Spring Boot, Hibernate and PostgreSql API
+API for data structures assessments forked from [here](https://github.com/carlitos26/mercury-data-structures)
 
 # Start up
 Fire up the database in Docker with compose by running
@@ -45,12 +45,3 @@ export PROJECT_DB_USERNAME=tech
 export PROJECT_DB_PASSWORD=d0nt4get
 ```
 
-# Use it
-Clone the repo into a desiredDestinationDirectory
-```aidl
-git clone <Repo> <desiredDestinationDirectory>
-```
-remove the current remote
-```aidl
-git remote rm origin
-```
