@@ -24,8 +24,8 @@ public class SwaggerConfig {
     }
     private ApiInfo apiEndPointsInfo() {
         return new ApiInfoBuilder()
-                .title("Spring Boot REST API Documentation")
-                .description("Spring Boot Hibernate init template with PostgreSql")
+                .title("Mercury Data Structures API")
+                .description("API for data structures assessments")
                 .contact(new Contact("Carlo Butelli", "", "dev.butelli@gmail.com"))
                 .license("Apache 2.0")
                 .licenseUrl("http://www.apache.org/licenses/LICENSE-2.0.html")

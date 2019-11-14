@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.carlobutelli.tech</groupId>
-	<artifactId>psql-spring-boot-init-template</artifactId>
+	<artifactId>mercury-data-structures</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 

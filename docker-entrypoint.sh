@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-java -jar target/psql-spring-boot-init-template-1.0.0.jar
+java -jar target/mercury-data-structures-1.0.0.jar
