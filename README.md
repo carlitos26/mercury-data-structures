@@ -40,8 +40,8 @@ http://localhost:8081/swagger
 # Environment
 ```$xslt
 export PROJECT_DB_HOST=localhost:5432
-export PROJECT_DB_NAME=assessments
-export PROJECT_DB_USERNAME=tech
+export PROJECT_DB_NAME=mercury
+export PROJECT_DB_USERNAME=mercury
 export PROJECT_DB_PASSWORD=d0nt4get
 ```
 

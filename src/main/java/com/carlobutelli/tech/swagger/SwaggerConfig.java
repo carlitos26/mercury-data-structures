@@ -25,7 +25,7 @@ public class SwaggerConfig {
     private ApiInfo apiEndPointsInfo() {
         return new ApiInfoBuilder()
                 .title("Mercury Data Structures API")
-                .description("API for data structures assessments")
+                .description("API for data structures project")
                 .contact(new Contact("Carlo Butelli", "", "dev.butelli@gmail.com"))
                 .license("Apache 2.0")
                 .licenseUrl("http://www.apache.org/licenses/LICENSE-2.0.html")
